@@ -20,7 +20,7 @@
 
   <h3>🔥 What I live for</h3>
   <p>
-    Building insane <strong>custom gamemodes</strong>, tweaking mechanics till they feel perfect, and turning basic servers into addictive experiences.<br/>
+    Building <strong>custom gamemodes</strong>, tweaking mechanics till they feel perfect, and turning basic servers into addictive experiences.<br/>
     From 1.8 PvP metas to modern 1.21 survival/MMORPG vibes — if it's Minecraft and it's modifiable, I'm probably obsessed with it.
   </p>
 
@@ -56,7 +56,7 @@
   <br/><br/>
 
   <p>
-    Let's make some servers go crazy — hit me up on Discord: xylas69 (or whatever your tag is) 🔥
+    Let's make some servers go crazy — hit me up on Discord: xylas. 🔥
   </p>
 
 </div>
